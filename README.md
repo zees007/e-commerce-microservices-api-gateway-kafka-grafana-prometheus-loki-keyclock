@@ -27,4 +27,18 @@ Kafka for Notification Service: Implements Kafka as a message broker for efficie
 
 This combination of tools and techniques creates a scalable, secure, and observable microservices environment. Docker ensures consistent and efficient management of application containers, while Schema Registry and Avro enhance data integrity and serialization across Kafka streams.
 
+Follow me for more such projects POC for quick start:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/zeeshan-adil-a94b3867/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a></br>
+  <a href="https://medium.com/@mhmdzeeshan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=flat" height="35" alt="medium logo"  />
+  </a> </br>
+  <a href="https://facebook.com/groups/321306497491174/?ref=share_group_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
 
